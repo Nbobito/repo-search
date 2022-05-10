@@ -6,7 +6,7 @@ The advanced git search engine
 
 ## What is it?
 
-The GitHub Repo Search Engine is an engine used to find repos for those of all levels of skill - beginners and experts alike - to contribute to.
+The [GitHub Repo Search Engine](https://lucasrpatten.github.io/repo-search/) is an engine used to find repos for those of all levels of skill - beginners and experts alike - to contribute to.
 
 ## Why?
 
